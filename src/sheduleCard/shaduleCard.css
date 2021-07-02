@@ -1,0 +1,28 @@
+.cardMain {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  border-radius: 30px;
+  height: 130px;
+}
+.dateSide {
+  height: 130px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e3f0ff;
+}
+.dataSide {
+  /* height: 130px; */
+  /* border: 2px solid black; */
+  padding: 10px;
+}
+._events_heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 95%;
+  margin: auto;
+  margin-top: 10px;
+  /* border: 1px solid black; */
+}
